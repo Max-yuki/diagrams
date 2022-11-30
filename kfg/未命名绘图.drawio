@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T07:21:25.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gB_-rbDZB295Sha_i5h6" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T07:23:16.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="s4IrROeuMffmCwIaCGRz" version="20.6.0" type="github">
   <diagram id="hAx2Hl-BltRxzDpdm66S" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,6 +171,12 @@
         </mxCell>
         <mxCell id="_QIeFIZ4M2tdTjCiJLcN-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png;" vertex="1" parent="1">
           <mxGeometry x="958.65" y="1004.31" width="117.73" height="115.69" as="geometry" />
+        </mxCell>
+        <mxCell id="_QIeFIZ4M2tdTjCiJLcN-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="1328" y="584" width="90" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="_QIeFIZ4M2tdTjCiJLcN-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1024px-Hadoop_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="593.55" width="250" height="64.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
